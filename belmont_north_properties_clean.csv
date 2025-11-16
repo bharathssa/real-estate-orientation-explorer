@@ -1,0 +1,9 @@
+address,property_type,price_aud,bedrooms,bathrooms,garage_spaces,land_sqm,building_sqm,price_per_land_sqm,price_per_bedroom,days_on_market,has_pool,has_solar,teen_retreat_or_studio,coastal_view,price_outlier_iqr,price_zscore,investor_readiness_score
+"301 Pacific Highway, Belmont North, NSW",House,950000,4,2,2,556,,1708.633094,237500,4,1,1,1,1,0,-0.431919752,90.5
+"17 Dulungra Avenue, Belmont North, NSW",House,1350000,5,3,2,605,,2231.404958677686,270000,39,0,1,0,1,0,-0.344442334,84.6
+"82 Old Belmont Road, Belmont North, NSW",House,1300000,4,3,4,940,,1382.9787234042553,325000,11,1,0,1,0,0,-0.355377011,83.1
+"6 Brabham Close, Belmont North, NSW",House,900000,3,1,2,708,,1271.1864406779662,300000,13,0,0,0,1,0,-0.442854429,67.9
+"75 Buttaba Avenue, Belmont North, NSW",House,1200000,3,2,6,696,113,1724.1379310344828,400000,24,0,0,0,1,0,-0.377246366,65
+"380-384 Pacific Highway, Belmont North, NSW",Unit,1800000,,,,1377,1377,1307.189542,,54,0,0,0,0,0,-0.246030238,57.4
+"38 Buttaba Avenue, Belmont North, NSW",House,900000,2,1,2,675,66,1333.3333333333333,450000,2,0,0,1,1,0,-0.442854429,54.9
+"10 Marian Place, Belmont North, NSW",House,15000000,4,3,3,697,223,21520.80344332855,3750000,3,1,1,0,1,1,2.640724559125063,46.5
